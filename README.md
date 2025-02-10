@@ -2,7 +2,6 @@
 <a href="https://instagram.com/lipe_formigari"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 
 <br>
-<br>
 
 ## Tecnologias que eu domino / estou aprendendo:
 
