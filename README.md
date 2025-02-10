@@ -18,6 +18,8 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img title="Kotlin" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br>
@@ -26,6 +28,7 @@
     Tenho o ensino médio completo e vou começar a faculdade de engenharia de software. Durante o período da tarde e noite,<br> atuo no CentroWEG, onde estou finalizando a formação em Programação de Sistemas da Informação. Busco constantemente<br> aprimorarminhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
 </p>
 
-<br>
-
+<div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeFormiga&layout=pie&theme=tokyonight" alt="Top Langs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=dark" />
+</div>
