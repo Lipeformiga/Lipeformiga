@@ -1,5 +1,7 @@
 <p>Olá, meu nome é Filipe Formigari tenho 18 anos e estudo programação de sistemas</p>
 
+<br>
+
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -13,6 +15,8 @@
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<br>
 
 <p>
     Tenho o ensino médio completo e vou começar a faculdade de engenharia de software<br> Durante o período da tarde e noite, atuo no CentroWEG, onde estou finalizando<br> a formação em Programação de Sistemas da Informação. Busco constantemente aprimorar<br>minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
