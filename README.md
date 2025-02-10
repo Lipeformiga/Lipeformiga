@@ -19,5 +19,9 @@
 <br>
 
 <p>
-    Tenho o ensino médio completo e vou começar a faculdade de engenharia de software<br> Durante o período da tarde e noite, atuo no CentroWEG, onde estou finalizando<br> a formação em Programação de Sistemas da Informação. Busco constantemente aprimorar<br>minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
+    Tenho o ensino médio completo e vou começar a faculdade de engenharia de software Durante o período da tarde e noite,<br> atuo no CentroWEG, onde estou finalizando a formação em Programação de Sistemas da Informação. Busco constantemente<br> aprimorarminhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
 </p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeFormiga&layout=pie&theme=tokyonight" alt="Top Langs">
