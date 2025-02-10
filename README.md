@@ -1,6 +1,9 @@
 <p>Olá, meu nome é Filipe Formigari tenho 18 anos e estudo programação de sistemas</p>
-
+<a href="https://instagram.com/lipe_formigari"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 <br>
+<br>
+
+<p> Tecnologias que eu domino / estou aprendendo: </p>
 
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
