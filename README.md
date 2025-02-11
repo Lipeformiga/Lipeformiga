@@ -1,5 +1,5 @@
 ### <p>Olá, seja bem vindo ao meu perfil do gitHUB!</p>
-<p>Meu nome é Filipe Formigari tenho 18 anos, tenho o ensino médio completo e vou começar a faculdade de engenharia de software. Durante o período da tarde e noite,<br> atuo no CentroWEG, onde estou finalizando a formação em Programação de Sistemas da Informação. Busco constantemente<br> aprimorarminhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.</p>
+<p>Meu nome é Filipe Formigari tenho 18 anos, tenho o ensino médio completo e vou começar a faculdade de engenharia de software. Durante o período da tarde e noite, atuo no CentroWEG, onde estou finalizando a formação em Programação de Sistemas da Informação. Busco constantemente aprimorarminhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.</p>
 <a href="https://instagram.com/lipe_formigari"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 <br>
 
