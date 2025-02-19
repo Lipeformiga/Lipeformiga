@@ -27,5 +27,5 @@
 
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeFormiga&layout=pie&theme=tokyonight" alt="Top Langs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipeFormiga&theme=dark" />
 </div>
