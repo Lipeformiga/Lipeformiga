@@ -1,4 +1,4 @@
-### <p>Olá, seja bem vindo ao meu perfil do gitHUB!</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAFAsize=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil+do+github;+:%29)](https://git.io/typing-svg)
 <p>Meu nome é Filipe Formigari tenho 18 anos, tenho o ensino médio completo e vou começar a faculdade de engenharia de software. Durante o período da tarde e noite, atuo no CentroWEG, onde estou finalizando a formação em Programação de Sistemas. Busco constantemente aprimorarminhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.</p>
 <a href="https://instagram.com/lipe_formigari"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 <br>
