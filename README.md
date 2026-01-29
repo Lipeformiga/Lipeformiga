@@ -20,12 +20,3 @@
 <img title="Kotlin" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
-<hr>
-
-<br>
-
-<div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeFormiga&layout=pie&theme=tokyonight" alt="Top Langs">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LipeFormiga&theme=tokyonight" alt="GitHub Streak" width="400"
-</div>
